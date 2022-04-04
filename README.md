@@ -14,3 +14,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/My-Restaurant-v2/
+
+![image](https://user-images.githubusercontent.com/95743795/161570293-9a079e73-f387-4c23-af0a-69fd2106a145.png)
